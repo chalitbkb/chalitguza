@@ -39,7 +39,7 @@
 </div>
 
 ###
-
+<img src="https://raw.githubusercontent.com/chalitguza/chalitguza/b0f4ab606c85de699ff1c74ba146f222ef66f715/snake.svg" alt="Snake animation" />
 <img src="https://raw.githubusercontent.com/chalitguza/chalitguza/blob/output/snake.svg" alt="Snake animation" />
 
 ###
