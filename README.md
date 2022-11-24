@@ -45,8 +45,8 @@
   <img height="220" src="https://raw.githubusercontent.com/chalitguza/chalitguza/main/im.gif"  />
 </div>
 
-<div align="center">
-  <img  src="https://raw.githubusercontent.com/chalitguza/chalitguza/main/TreeSkill.gif" src="https://democssdev.netlify.app/tree/" />
-</div>
+
+[<img alt="alt_text"  src="https://raw.githubusercontent.com/chalitguza/chalitguza/main/TreeSkill.gif" />](https://www.google.com/)
+
 
 ###
