@@ -38,12 +38,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="25" width="37" alt="amazonwebservices logo"  />
 </div>
 
-
 ###
 <img src="https://raw.githubusercontent.com/chalitguza/chalitguza/output/snake.svg" alt="Snake animation" />
 
+  <div align="center">
+  <img height="220" src="https://raw.githubusercontent.com/chalitguza/chalitguza/main/im.gif"  />
+</div>
+
 <div align="center">
-  <img height="300" src="https://raw.githubusercontent.com/chalitguza/chalitguza/main/im.gif"  />
+  <img  src="https://raw.githubusercontent.com/chalitguza/chalitguza/main/TreeSkill.gif"  />
 </div>
 
 ###
