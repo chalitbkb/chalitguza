@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Chalit</h2>
+<h2 align="left">Hi 👋! i'm Chalit</h2>
 
 ###
 
@@ -40,5 +40,9 @@
 
 ###
 <img src="https://raw.githubusercontent.com/chalitguza/chalitguza/output/snake.svg" alt="Snake animation" />
+
+<div align="center">
+  <img height="300" src="https://raw.githubusercontent.com/chalitguza/chalitguza/main/im.gif"  />
+</div>
 
 ###
