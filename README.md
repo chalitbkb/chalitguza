@@ -46,7 +46,7 @@
 </div>
 
 <div align="center">
-  <img  src="https://raw.githubusercontent.com/chalitguza/chalitguza/main/TreeSkill.gif"  />
+  <img  src="https://raw.githubusercontent.com/chalitguza/chalitguza/main/TreeSkill.gif" src="https://democssdev.netlify.app/tree/" />
 </div>
 
 ###
